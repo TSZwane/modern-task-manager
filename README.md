@@ -4,7 +4,9 @@ A sleek, dark-themed Linux task manager built with **GTK3**, **PyGObject**, and 
 for Ubuntu 22+. Includes real-time system monitoring, process control, and systemd service visibility.
 
 <p align="center">
-  <img width="500" src="icons/modern-task-manager.png" alt="Icon">
+  <img width="500" src="screenshots/modern-task-manager1.png" alt="image1">
+  <img width="500" src="screenshots/modern-task-manager2.png" alt="image2">
+  <img width="500" src="screenshots/modern-task-manager3.png" alt="image3">
 </p>
 
 ---
